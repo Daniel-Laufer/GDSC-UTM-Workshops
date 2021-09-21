@@ -10,6 +10,6 @@ Each link will take you to the corresponding workshop's GitHub repository that w
 
 
 1. [Git Workshop](https://github.com/Daniel-Laufer/GDSCUTM-git-workshop) (September 16th 2021 from 7pm-8pm)
-2. [Intro to web development workshop](https://github.com/Daniel-Laufer/GDSCUTM-web-dev-workshop) (October 2nd 4pm-4pm)
+2. [Intro to web development workshop](https://github.com/Daniel-Laufer/GDSCUTM-web-dev-workshop) (October 2nd 8pm-9pm)
 3. [Intro to React (CSSC + GDSC Colab!!)](https://github.com/white-van/react-workshop) (date and time TBA)
 
