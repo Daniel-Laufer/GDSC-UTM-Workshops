@@ -1,6 +1,7 @@
 # GDSC UTM's Technical Workshops
-
-![gdsc logo](https://cdn.discordapp.com/attachments/869418484969385985/888872807650426880/Copy_of_Copy_of_GDSC_Logo_chapter_lockup_centered_template.png)
+<div style="display:flex; justify-content:center">
+    <img src="https://cdn.discordapp.com/attachments/869418484969385985/888872807650426880/Copy_of_Copy_of_GDSC_Logo_chapter_lockup_centered_template.png"/>
+</div>
 
 
 A collection of all the links related to the technical workshops hosted at UTM's Google Developer Student Club 🥳
